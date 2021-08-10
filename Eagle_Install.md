@@ -4,11 +4,11 @@
 
 Open Eagle and use the `Eagle | Options | Directories...` command to open the `Directories` dialog:
 
-![symbol library manager](readme-images/eagle-install/image_01.png)
+![Open directories dialog from the Eagle Control Panel](readme-images/eagle-install/image_01.png)
 
 and take note of the Libraries path:
 
-![symbol library manager](readme-images/eagle-install/image_02.png)
+![Directories dialog](readme-images/eagle-install/image_02.png)
 
 from now on we'll refer to it as the `Eagle libraries` folder.
 
@@ -16,17 +16,17 @@ from now on we'll refer to it as the `Eagle libraries` folder.
 
 Now from GitHub project download the folder `Eagle\Meadow F7 Micro` (containing the `EAGLEMeadowEDA.lbf` file) to the `Eagle libraries` folder:
 
-![symbol library manager](readme-images/eagle-install/image_03.png)
+![Copy files](readme-images/eagle-install/image_03.png)
 
 ## 3. Activate the Meadow library
 
 Now back to Eagle Control pannel, right click to the `Eagle\Meadow F7 Micro` folder and select `Use all`.
 
-![symbol library manager](readme-images/eagle-install/image_04.png)
+![Activate the Meadow library in the Eagle Control Panel](readme-images/eagle-install/image_04.png)
 
 and you're good to go:
 
-![symbol library manager](readme-images/eagle-install/image_05.png)
+![Library content in the Eagle Control Panel](readme-images/eagle-install/image_05.png)
 
 Have fun!
 
